@@ -1,6 +1,9 @@
 # 🚀 **Projeto: Utilização de Sets em Python**
 
-Neste projeto, exploramos como utilizar **Sets**, um tipo de estrutura nativa do Python, com foco em atividades de **tratamento e limpeza de dados**. Através de exemplos práticos, mostramos como essa estrutura pode ser útil para lidar com dados de forma eficiente, eliminando duplicatas e realizando operações de conjunto como união, interseção e diferença.
+Neste projeto, exploramos como utilizar **Sets**, um tipo de estrutura nativa do Python, com foco em atividades de **tratamento e limpeza de dados**. Através de exemplos práticos, mostramos como essa estrutura pode ser útil para lidar com dados de forma eficiente, eliminando duplicatas e realizando operações de conjunto como união, interseção e diferença.  
+
+**Créditos ao professor Marcus Almeida da Alura** pela explicação e exemplos práticos.
+
 
 ---
 
